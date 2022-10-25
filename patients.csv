@@ -1,0 +1,3 @@
+id,name,cured,blood_type,room_id
+1,Mickey,false,A,1
+2,Fiona,true,B,1
